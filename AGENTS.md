@@ -86,6 +86,13 @@
 
 ## Development and AI collaboration
 
+- Before implementation, inspect the relevant authoritative documents:
+  the [documentation index](docs/index.md), decision registers
+  [01](docs/architecture/decisions-01.md),
+  [02](docs/architecture/decisions-02.md), and
+  [03](docs/architecture/decisions-03.md), the
+  [foundation contract](docs/architecture/foundation-contract-01.md),
+  and the [F0 roadmap](docs/development/f0-roadmap.md).
 - Follow Explore → Decide → Define → Implement → Review → Verify → Learn →
   Commit. Keep architectural decisions human-led and milestones small and
   explicitly scoped.

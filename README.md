@@ -34,3 +34,8 @@ review and verify the result, learn from it, and then commit. Work uses
 purpose-based branches, Conventional Commits and fast-forward-only
 integration into `main`. See [AGENTS.md](AGENTS.md) for engineering and
 collaboration conventions.
+
+## Documentation
+
+See the [documentation index](docs/index.md) for the approved architecture,
+foundation contract, roadmap and product vision.
