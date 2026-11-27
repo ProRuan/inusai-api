@@ -1,15 +1,11 @@
-# Environment and secrets
+# Environment
 .env
 .env.*
 !.env.example
-*.pem
-*.key
-/private/
 
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
 
 # Virtual environments
 .venv/
@@ -17,7 +13,6 @@ __pycache__/
 /env/
 
 # Django
-*.sqlite3
 /media/
 /staticfiles/
 
@@ -34,20 +29,10 @@ htmlcov/
 
 # Quality tools
 .ruff_cache/
-.mypy_cache/
 
-# Build and packaging
-/build/
-/dist/
-*.egg-info/
-*.egg
-.eggs/
-
-# IDE and editors
+# IDE
 .idea/
 .vscode/
-*.swp
-*.swo
 
 # Operating systems
 .DS_Store
@@ -57,3 +42,6 @@ desktop.ini
 # Temporary files
 /tmp/
 /temp/
+
+# Private files
+/private/
