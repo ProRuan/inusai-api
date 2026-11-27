@@ -1,0 +1,59 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/private/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+/venv/
+/env/
+
+# Django
+*.sqlite3
+/media/
+/staticfiles/
+
+# Logs
+*.log
+/logs/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Quality tools
+.ruff_cache/
+.mypy_cache/
+
+# Build and packaging
+/build/
+/dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+/tmp/
+/temp/
