@@ -1,6 +1,8 @@
 # Inusai 2.0 — Vision
 
-Inusai is an intelligent, interactive and extensible learning platform. Its API provides a shared backend for web and future Android, iOS and desktop applications.
+Inusai is an intelligent, interactive and extensible learning platform. Its API
+provides a shared backend for web and future Android, iOS and desktop
+applications.
 
 ## Product vision
 
@@ -18,10 +20,17 @@ These are aspirations, not binding feature contracts.
 
 **Think big. Start simple. Build iteratively.**
 
-Build elementary, composable solutions that are performant, clean, reusable, maintainable, scalable, readable and secure. Start with an evolutionary modular monolith and introduce abstractions only when justified.
+Build elementary, composable solutions that are performant, clean, reusable,
+maintainable, scalable, readable and secure. Start with an evolutionary modular
+monolith and introduce abstractions only when justified.
 
-Consider backend, frontend, architecture, security, AI engineering, accessibility, responsive design, visual design and storytelling through motion where relevant.
+Consider backend, frontend, architecture, security, AI engineering,
+accessibility, responsive design, visual design and storytelling through motion
+where relevant.
 
 ## Development and learning
 
-Explore, decide, specify, implement, review, test, learn and commit in small iterations. Use human-led design and scoped AI-assisted implementation. Preserve decisions in registers approximately every five decision groups, revising them when experience warrants it.
+Explore, decide, specify, implement, review, test, learn and commit in small
+iterations. Use human-led design and scoped AI-assisted implementation.
+Preserve decisions in registers approximately every five decision groups,
+revising them when experience warrants it.

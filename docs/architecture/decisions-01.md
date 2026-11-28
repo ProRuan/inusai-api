@@ -1,6 +1,7 @@
 # Inusai API 2.0 — Decision Register 01
 
-**Date:** 2026-11-24  
+**Date:** 2026-11-24
+
 **Status:** Accepted design baseline (D1–D5; 30 decisions)
 
 | ID   | Accepted decision                                                                                                                   |
@@ -38,7 +39,10 @@
 
 ## Open implementation details
 
-Exact dependency versions and compatibility, Docker configuration, environment variables and secrets, HTTP API conventions, line-counting rules, and whether the coverage threshold applies to lines or branches remain unresolved. No repository or implementation has been verified yet.
+Exact dependency versions and compatibility, Docker configuration, environment
+variables and secrets, HTTP API conventions, line-counting rules, and whether
+the coverage threshold applies to lines or branches remain unresolved. No
+repository or implementation has been verified yet.
 
 ## Proposed next block
 

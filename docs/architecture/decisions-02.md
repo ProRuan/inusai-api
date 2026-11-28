@@ -1,6 +1,7 @@
 # Inusai API 2.0 — Decision Register 02
 
-**Date:** 2026-11-25  
+**Date:** 2026-11-25
+
 **Status:** Accepted design baseline (D6–D10; 49 decisions)
 
 | ID     | Accepted decision                                                                                                                                   |
@@ -57,11 +58,20 @@
 
 ## Open implementation details
 
-Exact technology versions and compatibility, Docker image tags, container permissions, Redis persistence and authentication, environment variable inventory, connection URL encoding, production security and logging details, line-counting rules, line versus branch coverage, CI configuration and GitHub protection rules remain unresolved.
+Exact technology versions and compatibility, Docker image tags, container
+permissions, Redis persistence and authentication, environment variable
+inventory, connection URL encoding, production security and logging details,
+line-counting rules, line versus branch coverage, CI configuration and GitHub
+protection rules remain unresolved.
 
-Authentication and the custom user model require a decision before initial database migrations. Authorization, CORS, throttling, error code vocabulary, nested error paths, pagination ordering and consistency, idempotency, concurrency, API compatibility policies and production documentation exposure require further contracts where applicable.
+Authentication and the custom user model require a decision before initial
+database migrations. Authorization, CORS, throttling, error code vocabulary,
+nested error paths, pagination ordering and consistency, idempotency,
+concurrency, API compatibility policies and production documentation exposure
+require further contracts where applicable.
 
-No repository has been created or modified, and no implementation or dependency compatibility has been verified as part of this design register.
+No repository has been created or modified, and no implementation or dependency
+compatibility has been verified as part of this design register.
 
 ## Proposed next block
 
@@ -75,4 +85,6 @@ No repository has been created or modified, and no implementation or dependency 
 - F0.8 — GitHub Actions and continuous integration.
 - F0.9 — Foundation acceptance and integration.
 
-These milestone identifiers and their ordering are proposals, not accepted implementation contracts. Resolve the custom user model before initial database migrations.
+These milestone identifiers and their ordering are proposals, not accepted
+implementation contracts. Resolve the custom user model before initial database
+migrations.

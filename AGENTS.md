@@ -31,6 +31,14 @@
   function and file lengths manually. Report justified exceptions; do not
   artificially split coherent code to satisfy numerical limits.
 
+## Documentation conventions
+
+- Write English Markdown with one H1 title and a consistent H2/H3 hierarchy.
+- Use ISO dates, consistent metadata labels, pipe tables and hyphen lists.
+- Use inline code for technical literals and fenced blocks for examples.
+- Use relative documentation links and wrap prose near 79 characters.
+- Use UTF-8, LF line endings, one final newline and no trailing whitespace.
+
 ## Dependencies and infrastructure
 
 - Use uv with package-specific bounded dependency ranges, one committed
